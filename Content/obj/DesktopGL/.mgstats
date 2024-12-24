@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Monogame/XmasProject/Content/Cat_Run.png","c:/Monogame/XmasProject/Content/bin/DesktopGL/Cat_Run.xnb","TextureProcessor","Texture2DContent",1463,53333,0,1572894
+"c:/Monogame/XmasProject/Content/Christmas Green Tree.png","c:/Monogame/XmasProject/Content/bin/DesktopGL/Christmas Green Tree.xnb","TextureProcessor","Texture2DContent",155115,5970997,0,2428114
+"c:/Monogame/XmasProject/Content/Merry Christmas.png","c:/Monogame/XmasProject/Content/bin/DesktopGL/Merry Christmas.xnb","TextureProcessor","Texture2DContent",243495,518485,0,0422705
